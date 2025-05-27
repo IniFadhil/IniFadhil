@@ -11,7 +11,7 @@
 
 ### 🍖 About Me (a.k.a. Mugiwara Dev)
 
-- 🏴‍☠️ Call me **Luffy** if you want, but unlike him, I write *code* not just punch things
+- 🏴‍☠️ Call me **Marshal D Fadhil** if you want, but unlike him, I write *code* not just punch things
 - 💻 I build apps, craft UIs, and sometimes... sail into bugs 🐛
 - 🌊 I live by the code and the will of D
 - 🧠 Learning new frameworks like I’m collecting Road Poneglyphs
@@ -56,7 +56,7 @@ And in my case, "I'm gonna be the King of the Coders!" 🧑‍💻
 
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
-```md
+
 
 
 
