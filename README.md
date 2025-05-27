@@ -22,13 +22,13 @@
 
 
 Languages:
-  - JavaScript, TypeScript
+  - JavaScript
   - PHP, Java, Kotlin
   - Python, C++
 
 Frameworks:
-  - React, Vue, Laravel, Spring Boot
-  - Node.js, Express, Next.js
+  - React, Laravel
+  - Node.js
   - TailwindCSS, Bootstrap
 
 Tools:
