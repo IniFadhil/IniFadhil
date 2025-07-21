@@ -45,13 +45,37 @@
 
 ### ☠️ Not Just Code, But a Crew
 
-| 🛠 Project | 🌟 Description | ⚙️ Tech Stack |
-|-----------|----------------|----------------|
-| **Going Merry App** | Todo list with anime style | React + Node |
-| **One Piece API Explorer** | Search characters, arcs, and bounty | REST API |
-| **Wano Landing Page** | Tourism landing page for Wano | HTML + CSS + JS |
+<div align="center">
 
----
+<table>
+  <thead>
+    <tr>
+      <th>🛠 Project</th>
+      <th>🌟 Description</th>
+      <th>⚙️ Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Going Merry App</strong></td>
+      <td>Todo list with anime style</td>
+      <td>React + Node</td>
+    </tr>
+    <tr>
+      <td><strong>One Piece API Explorer</strong></td>
+      <td>Search characters, arcs, and bounty</td>
+      <td>REST API</td>
+    </tr>
+    <tr>
+      <td><strong>Wano Landing Page</strong></td>
+      <td>Tourism landing page for Wano</td>
+      <td>HTML + CSS + JS</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 
 ### 📜 Pirate's Code (aka Life Quote)
 
