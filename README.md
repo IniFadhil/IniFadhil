@@ -47,6 +47,27 @@
 
 ---
 
+### 🧭 GitHub Stats & Activity
+
+<div align="center">
+
+<a href="https://github.com/yourusername">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&border_radius=12&hide_title=true&hide_rank=true" width="45%" />
+</a>
+<a href="https://github.com/yourusername">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" />
+</a>
+
+<br />
+
+<a href="https://github.com/yourusername">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="50%" />
+</a>
+
+</div>
+
+---
+
 ### 🎇 Favorite Quote
 
 > "I'm gonna be the King of the Pirates!" — *Monkey D. Luffy*  
@@ -61,4 +82,14 @@
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" />
   </a>
   <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-bl
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourtwitter">
+    <img src="https://img.shields.io/twitter/follow/yourtwitter?style=social" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/T_K0RGoSuvcAAAAC/luffy.gif" width="300" /><br/>
+  <em>“Oceans are vast, but so is code.”</em>
+</p>
