@@ -11,52 +11,54 @@
 
 ### 🍖 About Me (a.k.a. Mugiwara Dev)
 
-- 🏴‍☠️ Call me **Marshal D Fadhil** if you want, but unlike him, I write *code* not just punch things
-- 💻 I build apps, craft UIs, and sometimes... sail into bugs 🐛
-- 🌊 I live by the code and the will of D
-- 🧠 Learning new frameworks like I’m collecting Road Poneglyphs
+- 🏴‍☠️ Call me **Marshal D Fadhil** if you want, but unlike him, I write *code* not just punch things  
+- 💻 I build apps, craft UIs, and sometimes... sail into bugs 🐛  
+- 🌊 I live by the code and the will of D  
+- 🧠 Learning new frameworks like I’m collecting Road Poneglyphs  
 
 ---
 
 ### 🗺️ My Treasure Map (Skills)
 
+**Languages:**
+- JavaScript  
+- PHP, Java, Kotlin  
+- Python, C++  
 
-Languages:
-  - JavaScript
-  - PHP, Java, Kotlin
-  - Python, C++
+**Frameworks:**
+- React, Laravel  
+- Node.js  
+- TailwindCSS, Bootstrap  
 
-Frameworks:
-  - React, Laravel
-  - Node.js
-  - TailwindCSS, Bootstrap
-
-Tools:
-  - Git, Docker, Figma
-  - Firebase, Supabase
-  - VS Code (my Sunny Go ⚓)
-
-☠️ My Crew (Projects)
-Project Name	Description	Tech Stack
-Going Merry App	A full-stack todo list with anime flair	React + Node
-One Piece API Explorer	Search characters, arcs, and bounty	Vue + REST API
-Wano Landing Page	Beautiful landing for Wano tourism	HTML + CSS + JS
-
-🎇 Favorite Quote
-"I'm gonna be the King of the Pirates!" — Monkey D. Luffy
-And in my case, "I'm gonna be the King of the Coders!" 🧑‍💻
-
-🔥 Let's Connect (and form a Nakama crew!)
-
-<p align="center"> <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" /></a> <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/twitter/follow/yourtwitter?style=social" /></a> </p>
-<p align="center"> <img src="https://media.tenor.com/T_K0RGoSuvcAAAAC/luffy.gif" width="300" /><br/> <em>“Oceans are vast, but so is code.”</em> </p>
+**Tools:**
+- Git, Docker, Figma  
+- Firebase, Supabase  
+- VS Code (my Sunny Go ⚓)  
 
 ---
 
+### ☠️ My Crew (Projects)
 
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+| Project Name         | Description                          | Tech Stack          |
+|----------------------|--------------------------------------|---------------------|
+| Going Merry App      | A full-stack todo list with anime flair | React + Node        |
+| One Piece API Explorer | Search characters, arcs, and bounty  | Vue + REST API      |
+| Wano Landing Page    | Beautiful landing for Wano tourism   | HTML + CSS + JS     |
 
+---
 
+### 🎇 Favorite Quote
 
+> "I'm gonna be the King of the Pirates!" — *Monkey D. Luffy*  
+> And in my case, **"I'm gonna be the King of the Coders!"** 🧑‍💻
 
+---
 
+### 🔥 Let's Connect (and form a Nakama crew!)
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" />
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-bl
