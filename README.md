@@ -1,80 +1,79 @@
 <h1 align="center">
-  <img src="https://media.tenor.com/jNKaSogbe6gAAAAC/one-piece-luffy.gif" width="120px"/>
-  <br/>
-  ☠️ Ahoy, Nakama! Welcome to My GitHub ☠️
+  <img src="https://media.tenor.com/1oWFeQvBHy8AAAAC/pixel-sword.gif" width="120px" /><br/>
+  🎮 Welcome to My Gaming & Dev Universe 🎮
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Full+Stack+Pirate+%F0%9F%9A%A2;Code+Adventurer+%F0%9F%92%BB;Dreaming+to+be+King+of+Coders+%F0%9F%90%8E;Bug+Hunter+Extraordinaire+%F0%9F%94%9E;Anime+Otaku+%F0%9F%8E%A9;Crewmate+of+Open+Source+%F0%9F%94%97" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Game+Developer+%26+Full+Stack+Adventurer;Leveling+Up+in+Code+%26+Design;Questing+for+Clean+Code+%26+High+FPS;Unlocking+Achievements+in+Open+Source" />
 </p>
 
 ---
 
-## 🍖 Who Am I?
+## 🕹️ Player Profile
 
-🏴‍☠️ **Marshal D. Fadhil** — carrying the Will of D like a true pirate  
-💻 I don't explore oceans, I explore codebases  
-🧠 Learning new tech like I'm gathering all the Road Poneglyphs  
-🧩 Turning bugs into features, like Haki into strength  
-☕ Fuelled by coffee, ambition, and a little bit of Gear 5 🔥
+👾 **Name:** Fadhil (aka Player One)  
+🎯 **Class:** Game Developer / Full Stack Developer  
+🧩 **Skills:** Crafting code, designing levels, debugging bosses  
+☕ **Buff:** Coffee + Headphones = Infinite Mana  
 
 ---
 
-## 🗺️ My Tech Treasure Map
+## 💾 My Game Dev Loadout
 
 <div align="center">
 
-| 💬 **Languages** | ⚙️ **Frameworks** | 🧰 **Tools** |
-|-----------------|-------------------|--------------|
-| JavaScript · PHP · Java · Kotlin · Python · C++ | Laravel · React · Node.js · TailwindCSS · Bootstrap | Git · Figma · VS Code (my Sunny Go ⚓) |
+| 📝 **Languages** | 🛠 **Engines & Frameworks** | ⚙️ **Tools** |
+|-----------------|---------------------------|-------------|
+| C# · JavaScript · PHP · Python · Java | Unity · Godot · Laravel · React · TailwindCSS | Git · Blender · Figma · VS Code |
 
 </div>
 
 ---
 
-## ⚓ My Crew's Projects
+## 🎮 Current Quests (Projects)
 
 <div align="center">
 
-| 🛠 **Project** | 🌟 **Description** | ⚙️ **Tech Stack** |
-|---------------|--------------------|------------------|
-| **Going Merry App** | Todo list app with anime vibes and pirate energy | React + Node |
-| **One Piece API Explorer** | Search characters, arcs, and bounties from the Grand Line | REST API |
-| **Wano Landing Page** | Tourism site for the Land of Wano — yes, it’s beautiful | HTML + CSS + JS |
+| 🕹 **Game / App** | 📜 **Description** | 🧰 **Stack** |
+|------------------|--------------------|--------------|
+| **Pixel Quest** | 2D platformer built with Unity (retro vibes) | Unity + C# |
+| **GameStore API** | REST API for indie game marketplace | Laravel + MySQL |
+| **HUD Builder** | UI kit for in-game HUD / overlay | React + Tailwind |
 
 </div>
 
 ---
 
-## 📜 Pirate's Code (aka My Life Motto)
+## 🏆 Achievements Unlocked
 
 <p align="center">
-  <em>“I'm gonna be the King of the Pirates!”</em> — Monkey D. Luffy <br/>
-  <strong>And I'm gonna be the King of the Coders! 🧑‍💻</strong>
+  <em>"Coding is my main quest, gaming is my side quest"</em><br/>
+  <strong>Always grinding XP in the open world of tech 🗺</strong>
 </p>
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 Gamer Stats (GitHub)
 
 <div align="center">
-  
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-  
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="yourusername" />
-  
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="yourusername" />
-  
-  <!-- Top langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="yourusername" />
+
+<!-- Profile views -->
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="stats" />
+
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="streak" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="top langs" />
+
 </div>
 
 ---
 
-## 🧭 Ready to Set Sail Together?
+## 🎧 Connect With Me
 
 <p align="center">
   <a href="https://github.com/yourusername">
@@ -91,6 +90,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/T_K0RGoSuvcAAAAC/luffy.gif" width="300"/><br/>
-  <em>“The sea of code is endless, but I’ll sail it all!”</em>
+  <img src="https://media.tenor.com/qqv3bNdS4UsAAAAC/gamer-loading.gif" width="300" /><br/>
+  <em>"Respawning with new ideas every commit"</em>
 </p>
