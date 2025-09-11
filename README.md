@@ -1,79 +1,65 @@
 <h1 align="center">
-  <img src="https://media.tenor.com/1oWFeQvBHy8AAAAC/pixel-sword.gif" width="120px" /><br/>
-  🎮 Welcome to My Gaming & Dev Universe 🎮
+  🎮 Fadhil – Game & Software Developer
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Game+Developer+%26+Full+Stack+Adventurer;Leveling+Up+in+Code+%26+Design;Questing+for+Clean+Code+%26+High+FPS;Unlocking+Achievements+in+Open+Source" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=18&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Game+Developer;Full+Stack+Developer;Clean+Code+Enthusiast;Open+Source+Contributor" />
 </p>
 
 ---
 
-## 🕹️ Player Profile
+## 🕹 About Me
 
-👾 **Name:** Fadhil (aka Player One)  
-🎯 **Class:** Game Developer / Full Stack Developer  
-🧩 **Skills:** Crafting code, designing levels, debugging bosses  
-☕ **Buff:** Coffee + Headphones = Infinite Mana  
+- 👤 **Name:** Fadhil  
+- 🎯 **Focus:** Game & Web Development  
+- 💡 **Interests:** Game engines, backend systems, UI/UX  
+- ☕ **Fuel:** Coffee + good music  
 
 ---
 
-## 💾 My Game Dev Loadout
+## 🛠 Tech Stack
 
 <div align="center">
 
-| 📝 **Languages** | 🛠 **Engines & Frameworks** | ⚙️ **Tools** |
-|-----------------|---------------------------|-------------|
-| C# · JavaScript · PHP · Python · Java | Unity · Godot · Laravel · React · TailwindCSS | Git · Blender · Figma · VS Code |
+| Languages | Frameworks / Engines | Tools |
+|-----------|----------------------|-------|
+| C#, JavaScript, PHP, Python, Java | Unity, Godot, Laravel, React | Git, Blender, Figma, VS Code |
 
 </div>
 
 ---
 
-## 🎮 Current Quests (Projects)
+## 🎮 Projects
 
 <div align="center">
 
-| 🕹 **Game / App** | 📜 **Description** | 🧰 **Stack** |
-|------------------|--------------------|--------------|
-| **Pixel Quest** | 2D platformer built with Unity (retro vibes) | Unity + C# |
-| **GameStore API** | REST API for indie game marketplace | Laravel + MySQL |
-| **HUD Builder** | UI kit for in-game HUD / overlay | React + Tailwind |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Indie Platformer** | 2D platformer prototype | Unity + C# |
+| **GameStore API** | API for indie game marketplace | Laravel + MySQL |
+| **HUD Builder** | UI kit for in-game HUD | React + Tailwind |
 
 </div>
 
 ---
 
-## 🏆 Achievements Unlocked
-
-<p align="center">
-  <em>"Coding is my main quest, gaming is my side quest"</em><br/>
-  <strong>Always grinding XP in the open world of tech 🗺</strong>
-</p>
-
----
-
-## 📊 Gamer Stats (GitHub)
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blue&style=flat" alt="profile views" />
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" alt="stats" />
 
-<!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark" alt="streak" />
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" alt="top langs" />
 
 </div>
 
 ---
 
-## 🎧 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/yourusername">
@@ -90,6 +76,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/qqv3bNdS4UsAAAAC/gamer-loading.gif" width="300" /><br/>
-  <em>"Respawning with new ideas every commit"</em>
+  <em>"Building games & apps one commit at a time."</em>
 </p>
