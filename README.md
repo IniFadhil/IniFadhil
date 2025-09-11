@@ -55,6 +55,25 @@
 
 ---
 
+## 📊 My GitHub Stats
+
+<div align="center">
+  
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="yourusername" />
+  
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="yourusername" />
+  
+  <!-- Top langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="yourusername" />
+</div>
+
+---
+
 ## 🧭 Ready to Set Sail Together?
 
 <p align="center">
