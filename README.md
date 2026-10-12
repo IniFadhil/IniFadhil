@@ -1,80 +1,91 @@
-<h1 align="center">
-  🎮 Fadhil – Game & Software Developer
-</h1>
+ <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=18&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Game+Developer;Full+Stack+Developer;Clean+Code+Enthusiast;Open+Source+Contributor" />
-</p>
+# Fadhil Rizki Fauzan
 
----
+### Software Developer · Web & Game Development
 
-## 🕹 About Me
+*Building reliable software and interactive digital experiences.*
 
-- 👤 **Name:** Fadhil  
-- 🎯 **Focus:** Game & Web Development  
-- 💡 **Interests:** Game engines, backend systems, UI/UX  
-- ☕ **Fuel:** Coffee + good music  
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-| Languages | Frameworks / Engines | Tools |
-|-----------|----------------------|-------|
-| C#, JavaScript, PHP, Python, Java | Unity, Godot, Laravel, React | Git, Blender, Figma, VS Code |
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IniFadhil)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
 
 </div>
 
 ---
 
-## 🎮 Projects
+## About Me
+
+I'm a software developer interested in building web applications, backend systems, and interactive experiences. I enjoy exploring new technologies, solving technical problems, and writing maintainable code.
+
+- **Focus:** Full-Stack Web Development & Game Development
+- **Backend:** Laravel, PHP, REST APIs
+- **Frontend:** React, JavaScript, UI/UX
+- **Currently exploring:** Software architecture, game engines, and application development
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frameworks & Engines**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+
+**Tools & Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| **Smart Desa** | Web-based village administration services and digital public information. | Laravel · PHP · MySQL |
+| **Game Development** | Exploring game mechanics, interactive gameplay, and game systems. | Unity · C# |
+| **Web Applications** | Developing responsive interfaces and backend-driven applications. | React · Laravel |
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Indie Platformer** | 2D platformer prototype | Unity + C# |
-| **GameStore API** | API for indie game marketplace | Laravel + MySQL |
-| **HUD Builder** | UI kit for in-game HUD | React + Tailwind |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IniFadhil&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IniFadhil&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=IniFadhil&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Connect
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blue&style=flat" alt="profile views" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" alt="stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark" alt="streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" alt="top langs" />
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/IniFadhil)
 
 </div>
 
----
+<div align="center">
 
-## 🌐 Connect With Me
+*“Thoughtful code. Meaningful products. Continuous growth.”*
 
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" />
-  </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourtwitter">
-    <img src="https://img.shields.io/twitter/follow/yourtwitter?style=social" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>"Building games & apps one commit at a time."</em>
-</p>
+</div>
